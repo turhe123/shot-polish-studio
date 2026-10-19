@@ -1,0 +1,5 @@
+[
+  {"file":"01-editor.png","caption":"The editor puts a pasted screenshot on a Dusk gradient with padding, rounded corners and a soft shadow, with background and layout controls in the sidebar.","alt":"ShotPolishStudio editor showing a screenshot on a purple-pink gradient"},
+  {"file":"02-auto-redact.png","caption":"Auto-redact finds the email addresses and phone numbers with on-device text recognition and blurs them, shown here on the Ocean gradient.","alt":"Editor with auto-redact on, blurring emails and phone numbers on a blue gradient"},
+  {"file":"03-menu.png","caption":"The menu bar menu has Capture Region (⌥⇧⌘2), Open Image…, Show Editor and Support.","alt":"ShotPolishStudio menu bar menu"}
+]

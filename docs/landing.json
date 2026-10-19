@@ -1,0 +1,24 @@
+{
+  "seo_title": "Screenshot beautifier for macOS",
+  "seo_description": "Free, open-source macOS menu bar app that adds gradient backdrops, padding, shadow and rounded corners to screenshots, with on-device redaction. Fully offline.",
+  "hero_title_line1": "Raw screenshots,",
+  "hero_title_accent": "ready to share.",
+  "hero_sub": "Capture a region with ⌥⇧⌘2, or drop and paste an image. ShotPolishStudio adds a gradient backdrop, padding, shadow and rounded corners, then copies or saves it. Everything stays on your Mac.",
+  "features_title": "Polish in a few clicks.",
+  "features_sub": "Capture, tune the look with a live preview, and export at full resolution.",
+  "features": [
+    {"icon": "keyboard", "title": "Global capture hotkey", "desc": "Press ⌥⇧⌘2 or use the menu bar item to select a region, with a live size readout while you drag. You can also drop, paste (⌘V) or open (⌘O) an image."},
+    {"icon": "image", "title": "Backgrounds and layout", "desc": "Choose from 8 gradients, a solid color, a custom color pair or a transparent background. Sliders control padding, corner radius and shadow, with an optional window-style border."},
+    {"icon": "display", "title": "Aspect ratio presets", "desc": "Export as Free, 1:1, 16:9 or 4:3, with the screenshot centered and scaled inside the frame."},
+    {"icon": "eye", "title": "On-device auto-redact", "desc": "Off by default. Vision text recognition finds emails, phone numbers and long digit sequences and covers them with Blur, Pixelate or a Solid Box. Click a box to remove it. Always review the preview before sharing."},
+    {"icon": "download", "title": "PNG and JPEG export", "desc": "Copy with ⌘C, Save As with ⌘S, or save straight to your default folder with ⌥⌘S. Exports render from the full-resolution original, and PNG keeps transparency."},
+    {"icon": "lock", "title": "Private and offline", "desc": "No account, no backend, no uploads. Your settings are remembered between launches."}
+  ],
+  "permissions_step": "Only for Capture Region, grant Screen Recording in System Settings › Privacy & Security when prompted, then relaunch the app if needed.",
+  "faq": [
+    {"q": "Is ShotPolishStudio really free and open source?", "a": "Yes. It is released under the MIT license and the full source is on GitHub. There are no accounts, subscriptions or paywalls. If it saves you time, you can optionally support development through the Support button."},
+    {"q": "What permissions does it need?", "a": "Screen Recording, and only for Capture Region. The app asks the first time you capture. Dropping, pasting and opening images needs no permission, and it never requests Accessibility, Microphone or Camera access."},
+    {"q": "Where is my data stored?", "a": "Your images are processed on your Mac and never uploaded. Preferences such as background, padding and format are stored locally, and your default save folder is remembered as a bookmark to the folder you picked."},
+    {"q": "Why is the app not notarized?", "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to launch it, or build it from source with Xcode and XcodeGen."}
+  ]
+}

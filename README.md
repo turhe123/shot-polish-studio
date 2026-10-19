@@ -1,5 +1,7 @@
 # ShotPolishStudio
 
+**🌐 Website:** [turhe123.github.io/shot-polish-studio](https://turhe123.github.io/shot-polish-studio/)
+
 Turn a raw screenshot into a share-ready image with a gradient backdrop, padding, shadow and rounded corners.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -26,7 +28,17 @@ ShotPolishStudio is a free, open-source, 100% native, backend-free alternative t
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-editor.png" alt="ShotPolishStudio editor showing a screenshot on a purple-pink gradient" width="720"></p>
+
+<p align="center"><em>The editor puts a pasted screenshot on a Dusk gradient with padding, rounded corners and a soft shadow, with background and layout controls in the sidebar.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-auto-redact.png" alt="Editor with auto-redact on, blurring emails and phone numbers on a blue gradient" width="560"></p>
+
+<p align="center"><em>Auto-redact finds the email addresses and phone numbers with on-device text recognition and blurs them, shown here on the Ocean gradient.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-menu.png" alt="ShotPolishStudio menu bar menu" width="560"></p>
+
+<p align="center"><em>The menu bar menu has Capture Region (⌥⇧⌘2), Open Image…, Show Editor and Support.</em></p>
 
 ## Install
 
